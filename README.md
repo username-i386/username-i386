@@ -1,4 +1,4 @@
-<header align="center">
+<div id="header" align="center">
     <h1>Hi there, I'm Eldar👋</h1>
     <h3>Frontend React Developer</h3>
     <div id="social">
@@ -6,8 +6,8 @@
         <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
         <a href="#"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" /></a>
     </div>
-</header>
-<main>
+</div>
+<div>
     <div id="about">
         <h3>About me:<h3>
         <ul>
@@ -45,10 +45,10 @@
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" alt="redux" width="60" />
             </div>
     </div>
-</main>
-<footer>
+</div>
+<div>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=username-i386&theme=algolia" />
   <div>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=username-i386&theme=algolia&utcOffset=8"/> &nbsp <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=username-i386&theme=algolia" />
   </div>
-</footer>
+</div>
