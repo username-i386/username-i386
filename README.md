@@ -2,9 +2,9 @@
     <h1>Hi there, I'm Eldar👋</h1>
     <h3>Frontend React Developer</h3>
     <div id="social">
-        <!-- set linkedIn link -->
-        <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+        <!-- <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
+        <a href="https://t.me/red_chupic"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+        <a href="mailto:guseynoveldar3@gmail.com"><img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=#EA4335" /></a>
     </div>
 </div>
 <div>
@@ -17,12 +17,11 @@
                 </p>
             </li>
             <li>
-                <!-- set links -->
                 <p>
                     📭 Reach me by 
-                    <a href="#">LinkedIn</a>
+                    <a href="https://t.me/red_chupic">Telegram</a>
                     or
-                    <a href="#">email</a>.
+                    <a href="mailto:guseynoveldar3@gmail.com">email</a>.
                 </p>
             </li>
             <li>
