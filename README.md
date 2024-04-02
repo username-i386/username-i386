@@ -33,6 +33,10 @@
     </div>
     <div id="skills">
         <h3>Languages and tools:<h3>
+        <div>
+            <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,styledcomponents,fastapi,redux,react,materialui,figma,github" />
+        </div>
+        <!-- 
             <div>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" alt="html5" width="60" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" alt="css3" width="60" />
@@ -43,6 +47,7 @@
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original-wordmark.svg" alt="router dom" width="60" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" alt="redux" width="60" />
             </div>
+        -->
     </div>
 </div>
 <div>
