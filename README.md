@@ -3,7 +3,7 @@
     <h3>Frontend React Developer</h3>
     <div id="social">
         <!-- <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
-        <a href="https://t.me/red_chupic"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+        <a href="https://t.me/eldar_guseyn0v"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" /></a>
         <a href="mailto:guseynoveldar3@gmail.com"><img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=#EA4335" /></a>
     </div>
 </div>
